@@ -94,7 +94,7 @@ Create a new file by clicking on this button on the top left.
 
 </p>
 <p>
-Copy this code which will create 1000 users in the _EMPOLYEES folder that we made earlier in the Active Directory Users and Computers (Also, make sure to save the PowerShell file after pasting in the code). 
+Copy this code (https://github.com/jiwoongjeon89/create-users) which will create 1000 users in the _EMPOLYEES folder that we made earlier in the Active Directory Users and Computers (Also, make sure to save the PowerShell file after pasting in the code). 
 </p>
 <br />
 
