@@ -140,8 +140,8 @@ When you are logged in, go to File Explorer > This PC > Windows (C:) > Users and
 </p>
 <br />
 
-<h3>Group Policy and Managing Accounts </h3>
-<h4>Dealing with Account Lockouts </h4>
+<h3>Group Policy and Managing Accounts</h3>
+<h4>Dealing with Account Lockouts</h4>
 One of real-life examples using Active Directory is dealing with Account Lockouts. Using Active Directory, we can set the specifics on the lockout policy.  
 <p>
 
@@ -250,7 +250,7 @@ To configure the lockout policy, first, log into DC-1 as Jane Doe the Admin > Ri
 </p>
 <br />
 
-<h4>Enabling and Disabling Accounts </h4>
+<h4>Enableing and Disabling Accounts</h4>
 <p>
   Another real-life example using Active Directory is enabling and disabling accounts. 
 </p>
@@ -289,7 +289,7 @@ To configure the lockout policy, first, log into DC-1 as Jane Doe the Admin > Ri
 </p>
 <br />
 
-<h4>Observing Logs </h4>
+<h4>Observing logs</h4>
 <p>
   A different kind of real-life example using Active Directory is observing logs. 
 </p>
